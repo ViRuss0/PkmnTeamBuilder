@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  width: 80%;
+  margin: 0 auto;
+}
+
+body {
+  background: rgb(238, 174, 202);
+  background: radial-gradient(
+    circle,
+    rgba(238, 174, 202, 1) 0%,
+    rgba(148, 187, 233, 1) 100%
+  );
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+}
+/* 
+@media screen and (max-width: 668px) {
+  .container {
+    flex-direction: column;
+    align-items: center;
+  }
+} */

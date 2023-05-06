@@ -1,0 +1,48 @@
+{
+  "team": [
+    {
+      "name": "Venusaur",
+      "id": 143298,
+      "id_pkmn": 3,
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+      "evolves": false,
+      "evolved": true
+    },
+    {
+      "name": "Bulbasaur",
+      "id": 364127,
+      "id_pkmn": 1,
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+      "evolves": true,
+      "evolution": "bulbasaur",
+      "evolved": false
+    },
+    {
+      "name": "Charmander",
+      "id": 986439,
+      "id_pkmn": 4,
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+      "evolves": true,
+      "evolution": "charmander",
+      "evolved": false
+    },
+    {
+      "name": "Ivysaur",
+      "id": 424763,
+      "id_pkmn": 2,
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+      "evolves": true,
+      "evolution": "ivysaur",
+      "evolved": false
+    },
+    {
+      "name": "Ivysaur",
+      "id": 271421,
+      "id_pkmn": 2,
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+      "evolves": true,
+      "evolution": "ivysaur",
+      "evolved": false
+    }
+  ]
+}
